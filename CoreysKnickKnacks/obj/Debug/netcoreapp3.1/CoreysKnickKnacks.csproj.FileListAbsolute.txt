@@ -1,0 +1,10 @@
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\bin\Debug\netcoreapp3.1\CoreysKnickKnacks.deps.json
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\bin\Debug\netcoreapp3.1\CoreysKnickKnacks.dll
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\bin\Debug\netcoreapp3.1\CoreysKnickKnacks.pdb
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.csproj.AssemblyReference.cache
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.AssemblyInfoInputs.cache
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.AssemblyInfo.cs
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.dll
+C:\Users\Logan\source\repos\CoreysKnickKnacks\CoreysKnickKnacks\obj\Debug\netcoreapp3.1\CoreysKnickKnacks.pdb
